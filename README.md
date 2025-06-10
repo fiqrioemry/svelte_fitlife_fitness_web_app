@@ -92,14 +92,6 @@ npm run preview
 
 ---
 
-## 📷 Preview
-
-![Hero Section](./public/preview-hero.png)
-![Login Form](./public/preview-login.png)
-![Register Form](./public/preview-register.png)
-
----
-
 ## 👨‍💼 Developer
 
 - Website: [https://ahmadfiqrioemry.com](https://ahmadfiqrioemry.com)
@@ -126,9 +118,17 @@ src/
 └── main.ts            # Entry point aplikasi
 ```
 
-## More Preview
+## 📷 Preview
 
-![Thumbnail](./public/preview2.png)
-![Thumbnail](./public/preview3.png)
-![Thumbnail](./public/preview4.png)
+<p align="center">
+  <img src="./public/preview2.png" width="45%" />
+  <img src="./public/preview3.png" width="45%" />
+</p>
+<p align="center">
+  <img src="./public/preview4.png" width="45%" />
+  <img src="./public/preview6.png" width="45%" />
+</p>
+
 ![Thumbnail](./public/preview5.png)
+
+---
